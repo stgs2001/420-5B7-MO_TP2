@@ -1,0 +1,624 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2020-10-17 00:57+0000\n"
+"PO-Revision-Date: 2020-10-17 11:17-0400\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Language: fr_CA\n"
+
+#: Controller/AccessoriesController.php:54
+#: Controller/AccessoriesController.php:79
+msgid "The accessory has been saved."
+msgstr ""
+
+#: Controller/AccessoriesController.php:58
+#: Controller/AccessoriesController.php:83
+msgid "The accessory could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AccessoriesController.php:101
+msgid "The accessory has been deleted."
+msgstr ""
+
+#: Controller/AccessoriesController.php:103
+msgid "The accessory could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:54
+#: Controller/CategoriesController.php:78
+msgid "The category has been saved."
+msgstr ""
+
+#: Controller/CategoriesController.php:58
+#: Controller/CategoriesController.php:82
+msgid "The category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriesController.php:99
+msgid "The category has been deleted."
+msgstr ""
+
+#: Controller/CategoriesController.php:101
+msgid "The category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/IssuesController.php:57 Controller/IssuesController.php:82
+msgid "The issue has been saved."
+msgstr ""
+
+#: Controller/IssuesController.php:61 Controller/IssuesController.php:86
+msgid "The issue could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/IssuesController.php:104
+msgid "The issue has been deleted."
+msgstr ""
+
+#: Controller/IssuesController.php:106
+msgid "The issue could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PhotosController.php:57 Controller/PhotosController.php:82
+msgid "The photo has been saved."
+msgstr ""
+
+#: Controller/PhotosController.php:61 Controller/PhotosController.php:86
+msgid "The photo could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PhotosController.php:104
+msgid "The photo has been deleted."
+msgstr ""
+
+#: Controller/PhotosController.php:106
+msgid "The photo could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:57 Controller/ProductsController.php:84
+msgid "The product has been saved."
+msgstr ""
+
+#: Controller/ProductsController.php:61 Controller/ProductsController.php:88
+msgid "The product could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductsController.php:108
+msgid "The product has been deleted."
+msgstr ""
+
+#: Controller/ProductsController.php:110
+msgid "The product could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:54 Controller/RolesController.php:78
+msgid "The role has been saved."
+msgstr ""
+
+#: Controller/RolesController.php:58 Controller/RolesController.php:82
+msgid "The role could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/RolesController.php:99
+msgid "The role has been deleted."
+msgstr ""
+
+#: Controller/RolesController.php:101
+msgid "The role could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:57 Controller/UsersController.php:82
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:61 Controller/UsersController.php:86
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:104
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:106
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Accessories/add.ctp:9 Template/Accessories/edit.ctp:9
+#: Template/Accessories/index.ctp:9 Template/Accessories/index.ctp:24
+#: Template/Accessories/view.ctp:9 Template/Accessories/view.ctp:54
+#: Template/Categories/add.ctp:9 Template/Categories/edit.ctp:9
+#: Template/Categories/index.ctp:9 Template/Categories/index.ctp:24
+#: Template/Categories/view.ctp:9 Template/Categories/view.ctp:50
+#: Template/Issues/add.ctp:9 Template/Issues/edit.ctp:9
+#: Template/Issues/index.ctp:9 Template/Issues/index.ctp:25
+#: Template/Issues/view.ctp:9 Template/Photos/add.ctp:9
+#: Template/Photos/edit.ctp:9 Template/Photos/index.ctp:9
+#: Template/Photos/index.ctp:29 Template/Photos/view.ctp:9
+#: Template/Products/add.ctp:9 Template/Products/edit.ctp:9
+#: Template/Products/index.ctp:9 Template/Products/index.ctp:34
+#: Template/Products/view.ctp:9 Template/Products/view.ctp:68
+#: Template/Products/view.ctp:98 Template/Products/view.ctp:133
+#: Template/Roles/add.ctp:9 Template/Roles/edit.ctp:9
+#: Template/Roles/index.ctp:9 Template/Roles/index.ctp:24
+#: Template/Roles/view.ctp:9 Template/Roles/view.ctp:55
+#: Template/Users/add.ctp:9 Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9 Template/Users/index.ctp:30
+#: Template/Users/view.ctp:9 Template/Users/view.ctp:68
+msgid "Actions"
+msgstr "Commandes"
+
+#: Template/Accessories/add.ctp:10 Template/Accessories/edit.ctp:16
+#: Template/Accessories/view.ctp:12 Template/Products/add.ctp:19
+#: Template/Products/edit.ctp:25 Template/Products/index.ctp:19
+#: Template/Products/view.ctp:22
+msgid "List Accessories"
+msgstr "Liste d'accessoires"
+
+#: Template/Accessories/add.ctp:11 Template/Accessories/edit.ctp:17
+#: Template/Accessories/index.ctp:11 Template/Accessories/view.ctp:14
+#: Template/Categories/add.ctp:11 Template/Categories/edit.ctp:17
+#: Template/Categories/index.ctp:11 Template/Categories/view.ctp:14
+#: Template/Issues/add.ctp:11 Template/Issues/edit.ctp:17
+#: Template/Issues/index.ctp:11 Template/Issues/view.ctp:14
+#: Template/Photos/add.ctp:11 Template/Photos/edit.ctp:17
+#: Template/Photos/index.ctp:11 Template/Photos/view.ctp:14
+#: Template/Products/add.ctp:10 Template/Products/edit.ctp:16
+#: Template/Products/view.ctp:12 Template/Users/add.ctp:13
+#: Template/Users/edit.ctp:19 Template/Users/index.ctp:13
+#: Template/Users/view.ctp:16
+msgid "List Products"
+msgstr "Liste des produits"
+
+#: Template/Accessories/add.ctp:12 Template/Accessories/edit.ctp:18
+#: Template/Accessories/index.ctp:12 Template/Accessories/view.ctp:15
+#: Template/Categories/add.ctp:12 Template/Categories/edit.ctp:18
+#: Template/Categories/index.ctp:12 Template/Categories/view.ctp:15
+#: Template/Issues/add.ctp:12 Template/Issues/edit.ctp:18
+#: Template/Issues/index.ctp:12 Template/Issues/view.ctp:15
+#: Template/Photos/add.ctp:12 Template/Photos/edit.ctp:18
+#: Template/Photos/index.ctp:12 Template/Photos/view.ctp:15
+#: Template/Products/index.ctp:10 Template/Products/view.ctp:13
+#: Template/Users/add.ctp:14 Template/Users/edit.ctp:20
+#: Template/Users/index.ctp:14 Template/Users/view.ctp:17
+msgid "New Product"
+msgstr "Nouveau produit"
+
+#: Template/Accessories/add.ctp:18
+msgid "Add Accessory"
+msgstr "Ajout d'accessoire"
+
+#: Template/Accessories/add.ctp:25 Template/Accessories/edit.ctp:31
+#: Template/Categories/add.ctp:23 Template/Categories/edit.ctp:29
+#: Template/Issues/add.ctp:25 Template/Issues/edit.ctp:31
+#: Template/Photos/add.ctp:29 Template/Photos/edit.ctp:35
+#: Template/Products/add.ctp:35 Template/Products/edit.ctp:41
+#: Template/Roles/add.ctp:24 Template/Roles/edit.ctp:30
+#: Template/Users/add.ctp:29 Template/Users/edit.ctp:35
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Template/Accessories/edit.ctp:11 Template/Accessories/index.ctp:37
+#: Template/Accessories/view.ctp:68 Template/Categories/edit.ctp:11
+#: Template/Categories/index.ctp:37 Template/Categories/view.ctp:64
+#: Template/Issues/edit.ctp:11 Template/Issues/index.ctp:39
+#: Template/Photos/edit.ctp:11 Template/Photos/index.ctp:47
+#: Template/Products/edit.ctp:11 Template/Products/index.ctp:49
+#: Template/Products/view.ctp:80 Template/Products/view.ctp:111
+#: Template/Products/view.ctp:150 Template/Roles/edit.ctp:11
+#: Template/Roles/index.ctp:37 Template/Roles/view.ctp:70
+#: Template/Users/edit.ctp:11 Template/Users/index.ctp:47
+#: Template/Users/view.ctp:82
+msgid "Delete"
+msgstr "Effacer"
+
+#: Template/Accessories/edit.ctp:13 Template/Accessories/index.ctp:37
+#: Template/Accessories/view.ctp:11 Template/Accessories/view.ctp:68
+#: Template/Categories/edit.ctp:13 Template/Categories/index.ctp:37
+#: Template/Categories/view.ctp:11 Template/Categories/view.ctp:64
+#: Template/Issues/edit.ctp:13 Template/Issues/index.ctp:39
+#: Template/Issues/view.ctp:11 Template/Photos/edit.ctp:13
+#: Template/Photos/index.ctp:47 Template/Photos/view.ctp:11
+#: Template/Products/edit.ctp:13 Template/Products/index.ctp:49
+#: Template/Products/view.ctp:11 Template/Products/view.ctp:80
+#: Template/Products/view.ctp:111 Template/Products/view.ctp:150
+#: Template/Roles/edit.ctp:13 Template/Roles/index.ctp:37
+#: Template/Roles/view.ctp:11 Template/Roles/view.ctp:70
+#: Template/Users/edit.ctp:13 Template/Users/index.ctp:47
+#: Template/Users/view.ctp:11 Template/Users/view.ctp:82
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Accessories/edit.ctp:24 Template/Accessories/view.ctp:10
+msgid "Edit Accessory"
+msgstr "Modifier l’accessoire"
+
+#: Template/Accessories/index.ctp:10 Template/Accessories/view.ctp:13
+#: Template/Products/add.ctp:20 Template/Products/edit.ctp:26
+#: Template/Products/index.ctp:20 Template/Products/view.ctp:23
+msgid "New Accessory"
+msgstr "Nouvel accessoire"
+
+#: Template/Accessories/index.ctp:16
+msgid "Accessories"
+msgstr "Accessoires"
+
+#: Template/Accessories/index.ctp:35 Template/Accessories/view.ctp:66
+#: Template/Categories/index.ctp:35 Template/Categories/view.ctp:62
+#: Template/Issues/index.ctp:37 Template/Photos/index.ctp:45
+#: Template/Products/index.ctp:47 Template/Products/view.ctp:78
+#: Template/Products/view.ctp:109 Template/Products/view.ctp:148
+#: Template/Roles/index.ctp:35 Template/Roles/view.ctp:68
+#: Template/Users/index.ctp:45 Template/Users/view.ctp:80
+msgid "View"
+msgstr "Visonner"
+
+#: Template/Accessories/index.ctp:36 Template/Accessories/view.ctp:67
+#: Template/Categories/index.ctp:36 Template/Categories/view.ctp:63
+#: Template/Issues/index.ctp:38 Template/Photos/index.ctp:46
+#: Template/Products/index.ctp:48 Template/Products/view.ctp:79
+#: Template/Products/view.ctp:110 Template/Products/view.ctp:149
+#: Template/Roles/index.ctp:36 Template/Roles/view.ctp:69
+#: Template/Users/index.ctp:46 Template/Users/view.ctp:81
+msgid "Edit"
+msgstr "Modifier"
+
+#: Template/Accessories/index.ctp:45 Template/Categories/index.ctp:45
+#: Template/Issues/index.ctp:47 Template/Photos/index.ctp:55
+#: Template/Products/index.ctp:57 Template/Roles/index.ctp:45
+#: Template/Users/index.ctp:55
+msgid "first"
+msgstr "premier"
+
+#: Template/Accessories/index.ctp:46 Template/Categories/index.ctp:46
+#: Template/Issues/index.ctp:48 Template/Photos/index.ctp:56
+#: Template/Products/index.ctp:58 Template/Roles/index.ctp:46
+#: Template/Users/index.ctp:56
+msgid "previous"
+msgstr "précédent"
+
+#: Template/Accessories/index.ctp:48 Template/Categories/index.ctp:48
+#: Template/Issues/index.ctp:50 Template/Photos/index.ctp:58
+#: Template/Products/index.ctp:60 Template/Roles/index.ctp:48
+#: Template/Users/index.ctp:58
+msgid "next"
+msgstr "prochain"
+
+#: Template/Accessories/index.ctp:49 Template/Categories/index.ctp:49
+#: Template/Issues/index.ctp:51 Template/Photos/index.ctp:59
+#: Template/Products/index.ctp:61 Template/Roles/index.ctp:49
+#: Template/Users/index.ctp:59
+msgid "last"
+msgstr "dernier"
+
+#: Template/Accessories/index.ctp:51 Template/Categories/index.ctp:51
+#: Template/Issues/index.ctp:53 Template/Photos/index.ctp:61
+#: Template/Products/index.ctp:63 Template/Roles/index.ctp:51
+#: Template/Users/index.ctp:61
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+
+#: Template/Accessories/view.ctp:11
+msgid "Delete Accessory"
+msgstr "Supprimer l’accessoire"
+
+#: Template/Accessories/view.ctp:22 Template/Accessories/view.ctp:50
+#: Template/Categories/view.ctp:22 Template/Categories/view.ctp:46
+#: Template/Issues/view.ctp:26 Template/Photos/view.ctp:26
+#: Template/Products/view.ctp:38 Template/Products/view.ctp:64
+#: Template/Products/view.ctp:94 Template/Products/view.ctp:125
+#: Template/Users/view.ctp:64
+msgid "Title"
+msgstr "Titre"
+
+#: Template/Accessories/view.ctp:26 Template/Accessories/view.ctp:47
+#: Template/Categories/view.ctp:26 Template/Categories/view.ctp:43
+#: Template/Issues/view.ctp:30 Template/Photos/view.ctp:42
+#: Template/Products/view.ctp:42 Template/Products/view.ctp:63
+#: Template/Products/view.ctp:92 Template/Products/view.ctp:123
+#: Template/Roles/view.ctp:26 Template/Roles/view.ctp:47
+#: Template/Users/view.ctp:44 Template/Users/view.ctp:61
+msgid "Id"
+msgstr "Id"
+
+#: Template/Accessories/view.ctp:30 Template/Accessories/view.ctp:52
+#: Template/Categories/view.ctp:30 Template/Categories/view.ctp:48
+#: Template/Issues/view.ctp:34 Template/Photos/view.ctp:50
+#: Template/Products/view.ctp:46 Template/Products/view.ctp:66
+#: Template/Products/view.ctp:96 Template/Products/view.ctp:131
+#: Template/Roles/view.ctp:30 Template/Roles/view.ctp:53
+#: Template/Users/view.ctp:48 Template/Users/view.ctp:66
+msgid "Created"
+msgstr "Créé"
+
+#: Template/Accessories/view.ctp:34 Template/Accessories/view.ctp:53
+#: Template/Categories/view.ctp:34 Template/Categories/view.ctp:49
+#: Template/Issues/view.ctp:38 Template/Photos/view.ctp:54
+#: Template/Products/view.ctp:50 Template/Products/view.ctp:67
+#: Template/Products/view.ctp:97 Template/Products/view.ctp:132
+#: Template/Roles/view.ctp:34 Template/Roles/view.ctp:54
+#: Template/Users/view.ctp:52 Template/Users/view.ctp:67
+msgid "Modified"
+msgstr "Modifié"
+
+#: Template/Accessories/view.ctp:39 Template/Accessories/view.ctp:51
+#: Template/Categories/view.ctp:47 Template/Issues/view.ctp:43
+#: Template/Photos/view.ctp:59 Template/Products/view.ctp:55
+#: Template/Products/view.ctp:65 Template/Products/view.ctp:95
+#: Template/Products/view.ctp:128 Template/Roles/view.ctp:39
+#: Template/Users/view.ctp:65
+msgid "Description"
+msgstr "Description"
+
+#: Template/Accessories/view.ctp:43 Template/Categories/view.ctp:39
+#: Template/Users/view.ctp:57
+msgid "Related Products"
+msgstr "Produits similaires"
+
+#: Template/Accessories/view.ctp:48 Template/Categories/view.ctp:44
+#: Template/Users/view.ctp:62
+msgid "User Id"
+msgstr "Identifiant utilisateur"
+
+#: Template/Accessories/view.ctp:49 Template/Categories/view.ctp:45
+#: Template/Users/view.ctp:63
+msgid "Category Id"
+msgstr "Id de catégorie"
+
+#: Template/Categories/add.ctp:10 Template/Categories/edit.ctp:16
+#: Template/Categories/view.ctp:12 Template/Products/add.ctp:13
+#: Template/Products/edit.ctp:19 Template/Products/index.ctp:13
+#: Template/Products/view.ctp:16
+msgid "List Categories"
+msgstr "Catégories de listes"
+
+#: Template/Categories/add.ctp:18
+msgid "Add Category"
+msgstr "Ajouter une catégorie"
+
+#: Template/Categories/edit.ctp:24 Template/Categories/view.ctp:10
+msgid "Edit Category"
+msgstr "Modifier la catégorie"
+
+#: Template/Categories/index.ctp:10 Template/Categories/view.ctp:13
+#: Template/Products/add.ctp:14 Template/Products/edit.ctp:20
+#: Template/Products/index.ctp:14 Template/Products/view.ctp:17
+msgid "New Category"
+msgstr "Nouvelle Catégorie"
+
+#: Template/Categories/index.ctp:16
+msgid "Categories"
+msgstr "Catégories"
+
+#: Template/Categories/view.ctp:11
+msgid "Delete Category"
+msgstr "Supprimer la catégorie"
+
+#: Template/Issues/add.ctp:10 Template/Issues/edit.ctp:16
+#: Template/Issues/view.ctp:12 Template/Products/add.ctp:15
+#: Template/Products/edit.ctp:21 Template/Products/index.ctp:15
+#: Template/Products/view.ctp:18
+msgid "List Issues"
+msgstr "Problèmes de liste"
+
+#: Template/Issues/add.ctp:18
+msgid "Add Issue"
+msgstr "Ajouter un problème"
+
+#: Template/Issues/edit.ctp:24 Template/Issues/view.ctp:10
+msgid "Edit Issue"
+msgstr "Modifier le problème"
+
+#: Template/Issues/index.ctp:10 Template/Issues/view.ctp:13
+#: Template/Products/add.ctp:16 Template/Products/edit.ctp:22
+#: Template/Products/index.ctp:16 Template/Products/view.ctp:19
+msgid "New Issue"
+msgstr "Nouveau produit"
+
+#: Template/Issues/index.ctp:16
+msgid "Issues"
+msgstr "Problèmes"
+
+#: Template/Issues/view.ctp:11
+msgid "Delete Issue"
+msgstr "Supprimer le problème"
+
+#: Template/Issues/view.ctp:22 Template/Photos/view.ctp:22
+msgid "Product"
+msgstr "Produit"
+
+#: Template/Layout/error.ctp:36
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:44
+msgid "Back"
+msgstr ""
+
+#: Template/Photos/add.ctp:10 Template/Photos/edit.ctp:16
+#: Template/Photos/view.ctp:12 Template/Products/add.ctp:17
+#: Template/Products/edit.ctp:23 Template/Products/index.ctp:17
+#: Template/Products/view.ctp:20
+msgid "List Photos"
+msgstr ""
+
+#: Template/Photos/add.ctp:18
+msgid "Add Photo"
+msgstr ""
+
+#: Template/Photos/edit.ctp:24 Template/Photos/view.ctp:10
+msgid "Edit Photo"
+msgstr ""
+
+#: Template/Photos/index.ctp:10 Template/Photos/view.ctp:13
+#: Template/Products/add.ctp:18 Template/Products/edit.ctp:24
+#: Template/Products/index.ctp:18 Template/Products/view.ctp:21
+msgid "New Photo"
+msgstr ""
+
+#: Template/Photos/index.ctp:16
+msgid "Photos"
+msgstr ""
+
+#: Template/Photos/view.ctp:11
+msgid "Delete Photo"
+msgstr ""
+
+#: Template/Photos/view.ctp:30 Template/Products/view.ctp:126
+msgid "Owner"
+msgstr ""
+
+#: Template/Photos/view.ctp:34 Template/Products/view.ctp:129
+msgid "Filename"
+msgstr ""
+
+#: Template/Photos/view.ctp:38 Template/Products/view.ctp:130
+msgid "Path"
+msgstr ""
+
+#: Template/Photos/view.ctp:46 Template/Products/view.ctp:127
+msgid "Date"
+msgstr ""
+
+#: Template/Products/add.ctp:11 Template/Products/edit.ctp:17
+#: Template/Products/index.ctp:11 Template/Products/view.ctp:14
+#: Template/Roles/add.ctp:11 Template/Roles/edit.ctp:17
+#: Template/Roles/index.ctp:11 Template/Roles/view.ctp:14
+#: Template/Users/add.ctp:10 Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr ""
+
+#: Template/Products/add.ctp:12 Template/Products/edit.ctp:18
+#: Template/Products/index.ctp:12 Template/Products/view.ctp:15
+#: Template/Roles/add.ctp:12 Template/Roles/edit.ctp:18
+#: Template/Roles/index.ctp:12 Template/Roles/view.ctp:15
+#: Template/Users/index.ctp:10 Template/Users/view.ctp:13
+msgid "New User"
+msgstr ""
+
+#: Template/Products/add.ctp:26
+msgid "Add Product"
+msgstr ""
+
+#: Template/Products/edit.ctp:32 Template/Products/view.ctp:10
+msgid "Edit Product"
+msgstr ""
+
+#: Template/Products/index.ctp:24
+msgid "Products"
+msgstr "Produits"
+
+#: Template/Products/view.ctp:11
+msgid "Delete Product"
+msgstr ""
+
+#: Template/Products/view.ctp:30
+msgid "User"
+msgstr ""
+
+#: Template/Products/view.ctp:34
+msgid "Category"
+msgstr ""
+
+#: Template/Products/view.ctp:59
+msgid "Related Accessories"
+msgstr ""
+
+#: Template/Products/view.ctp:88
+msgid "Related Issues"
+msgstr ""
+
+#: Template/Products/view.ctp:93 Template/Products/view.ctp:124
+msgid "Product Id"
+msgstr ""
+
+#: Template/Products/view.ctp:119
+msgid "Related Photos"
+msgstr ""
+
+#: Template/Roles/add.ctp:10 Template/Roles/edit.ctp:16
+#: Template/Roles/view.ctp:12 Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:17 Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "List Roles"
+msgstr ""
+
+#: Template/Roles/add.ctp:18
+msgid "Add Role"
+msgstr ""
+
+#: Template/Roles/edit.ctp:24 Template/Roles/view.ctp:10
+msgid "Edit Role"
+msgstr ""
+
+#: Template/Roles/index.ctp:10 Template/Roles/view.ctp:13
+#: Template/Users/add.ctp:12 Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12 Template/Users/view.ctp:15
+msgid "New Role"
+msgstr ""
+
+#: Template/Roles/index.ctp:16
+msgid "Roles"
+msgstr ""
+
+#: Template/Roles/view.ctp:11
+msgid "Delete Role"
+msgstr ""
+
+#: Template/Roles/view.ctp:22
+msgid "Name"
+msgstr ""
+
+#: Template/Roles/view.ctp:43
+msgid "Related Users"
+msgstr ""
+
+#: Template/Roles/view.ctp:48
+msgid "Role Id"
+msgstr ""
+
+#: Template/Roles/view.ctp:49 Template/Users/view.ctp:28
+msgid "Username"
+msgstr ""
+
+#: Template/Roles/view.ctp:50 Template/Users/view.ctp:32
+msgid "Email"
+msgstr ""
+
+#: Template/Roles/view.ctp:51 Template/Users/view.ctp:36
+msgid "Password"
+msgstr ""
+
+#: Template/Roles/view.ctp:52 Template/Users/view.ctp:40
+msgid "Uuid"
+msgstr ""
+
+#: Template/Users/add.ctp:20
+msgid "Add User"
+msgstr ""
+
+#: Template/Users/edit.ctp:26 Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr ""
+
+#: Template/Users/index.ctp:18
+msgid "Users"
+msgstr ""
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr ""
+
+#: Template/Users/view.ctp:24
+msgid "Role"
+msgstr ""
